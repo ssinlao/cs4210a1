@@ -28,7 +28,7 @@ age = {"Young": 1, "Prepresbyopic": 2, "Presbyopic": 3}
 spectacle = {"Myope": 1, "Hypermetrope": 2}
 astigmatism = {"Yes": 1, "No": 2}
 tear = {"Reduced": 1, "Normal": 2}
-lenses = {"No": 0, "Yes": 1}
+lenses = {"Yes": 0, "No": 1}
 
 #encode the original categorical training features into numbers and add to the 4D array X.
 #--> add your Python code here
